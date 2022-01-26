@@ -1,5 +1,5 @@
 # Rock-Paper-Scissors-Simulator
-A game made with pygame that allows a user to simulate playing Rock Paper Scissors with a computer. To play, simply download the project folder, extract the files, and run the "rps.py" file, which will open up a game window. You can then press start and begin playing by choosing the rock, paper, or scissors button. After each round, press the space bar to restart or the window exit button to stop. 
+A game made with pygame that allows a user to simulate playing Rock Paper Scissors with a computer. To play, simply download the project folder, extract the files, install the libraries mentioned at the top of the "rps.py" file, and run the "rps.py" file, which will open up a game window. You can then press start and begin playing by choosing the rock, paper, or scissors button. After each round, press the space bar to restart or the window exit button to stop. 
 
 ## Tools Used
 - **Python** - language used to write the code for this project.
