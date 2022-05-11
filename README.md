@@ -9,7 +9,7 @@ A game made with pygame that allows a user to simulate playing Rock Paper Scisso
 Coming Soon
 
 ## Possible Project Extensions
-In the future, I plan to improve this porject by implementing a machine learning model that analyzes the pattern of the user's choices and tries to make logical decisions so that the game is more realistic. 
+In the future, I plan to improve this project by implementing a machine learning model that analyzes the pattern of the user's choices and tries to make logical decisions so that the game is more realistic. 
 
 ## Hand Animation 
 For the hand animations in the game screen, I used this gif to get the images used in the sprites list: https://gfycat.com/whichdisastrousamurratsnake. 
