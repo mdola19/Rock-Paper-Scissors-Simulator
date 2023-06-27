@@ -6,7 +6,7 @@ A game made with pygame that allows a user to simulate playing Rock Paper Scisso
 - **Pygame** - Python library used to create the user interface.
 
 ## Demo
-Coming Soon
+View the demo for this project [here.](https://youtube.com/shorts/bXNNWEzHp6Q)
 
 ## Possible Project Extensions
 In the future, I plan to improve this project by implementing a machine learning model that analyzes the pattern of the user's choices and tries to make logical decisions so that the game is more realistic. 
